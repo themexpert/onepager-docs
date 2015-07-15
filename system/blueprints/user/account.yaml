@@ -1,0 +1,41 @@
+title: Site
+form:
+    validation: loose
+    fields:
+
+        content:
+            type: section
+            title: Account
+
+            fields:
+                username:
+                    type: text
+                    size: large
+                    label: Username
+                    readonly: true
+
+                email:
+                    type: text
+                    size: large
+                    label: Email
+                    validate:
+                      required: true
+
+                password:
+                    type: password
+                    size: large
+                    label: Password
+                    validate:
+                      required: true
+
+                fullname:
+                    type: text
+                    size: large
+                    label: Full name
+                    validate:
+                      required: true
+
+                title:
+                    type: text
+                    size: large
+                    label: Title

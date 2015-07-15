@@ -1,0 +1,12 @@
+title: OnePager Documentation
+metadata:
+    description: 'OnePager documentation'
+
+author:
+  name: Parvez Akther
+  email: 'parvez@themexpert.com'
+
+taxonomies: [category,tag]
+summary:
+  size: 300
+
