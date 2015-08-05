@@ -7,9 +7,9 @@ taxonomy:
 **OnePager** is the first cross platform one page site builder for WordPress and Joomla, packed with innumerous feature to empower one page site development without thinking design coherence and writing a single line of code.
 
 ### Cross platform page builder
-Onepager is the first cross platform builder on the earth for Joomla and WordPress ever, It’s pioneer in the page builder crew, entice not to make separate layout for different platform and save your valuable time as well your effort.
+OnePager is the first cross platform builder on the earth for Joomla and WordPress ever, It’s pioneer in the page builder crew, entice not to make separate layout for different platform and save your valuable time as well your effort.
 ### Block based architecture 
-Being a developer or user, stepping for site design without having prior experience is challenging. Even fussing steps would consume valuable time a lot. But Onepager won’t. The total architecture of the OnePager is crafted with beautifully pre-designed block, that allow to make a one page website after a couple of coherent drag and drop.  
+Being a developer or user, stepping for site design without having prior experience is challenging. Even fussing steps would consume valuable time a lot. But OnePager won’t. The total architecture of the OnePager is crafted with beautifully pre-designed block, that allow to make a one page website after a couple of coherent drag and drop.  
 ### Simple array based configuration
 OnePager is bottled with unlimited design block, that can easy fit to design need. If you want beyond of the blocks, want to add your custom own block with OnePage, don’t worry, we’ve made the way super simple. We kept all customizable setting in the array, and you have to add and eddit those array element base on your need. Have a look on the tutorial.
 ## No Theme or Template Dependency Required

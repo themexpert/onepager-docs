@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Fields are great way to enable option handles in an application. Like others, **Onepager** accepts vast array essential field, that you need to make a website loveable. Here are those, have  your eyes on them.
+Fields are great way to enable option handles in an application. Like others, **OnePager** accepts vast array essential field, that you need to make a website loveable. Here are those, have  your eyes on them.
 
 ###Text 
 A text field is a basic text control, accept small of text in any form of user input. When a user indicated that text entry is completed, the text field fires and subsequent event, else pops up with error. 
@@ -67,7 +67,7 @@ array(
 ```
 
 ###Editor
-Use text editor field to accept formatted input from user input instead of distorted text box. Editor field in Onepager enables you WYSIWYG editing  capability and interface.
+Use text editor field to accept formatted input from user input instead of distorted text box. Editor field in OnePager enables you WYSIWYG editing  capability and interface.
 
 ![alt text](editor.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -120,7 +120,7 @@ array(
 ```
 
 ###Icon
-We have developed an Opensource icon picker to lessen the effort of developers. In onepager Icon field type enable the picker, that allow you to select fontawesome icons with essential size variation.  
+We have developed an Opensource icon picker to lessen the effort of developers. In OnePager Icon field type enable the picker, that allow you to select fontawesome icons with essential size variation.  
 
 ![alt text](icon.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -146,7 +146,7 @@ array(
 ```
 
 ###Media
-Media field simultaneously allows you to pick font and images with separate button. Icon button will open the icon pick, and image will open your WordPress media to select image with default wordpress settings.    
+Media field simultaneously allows you to pick font and images with separate button. Icon button will open the icon pick, and image will open your WordPress media to select image with default WordPress settings.    
 
 ![alt text](media.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -210,7 +210,7 @@ array(
 ```
 
 ###Switch
-In onepager, we have programmed innumerous options, some of the options runs with boolean value. To deal with the boolean option, we enabled Switch field, so that you can easily switch between true and false based option easily. 
+In OnePager, we have programmed innumerous options, some of the options runs with boolean value. To deal with the boolean option, we enabled Switch field, so that you can easily switch between true and false based option easily. 
 
 ![alt text](switch.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -239,7 +239,7 @@ array(
 
 
 ###Repeater
-Repeater is the another time saver in Onepager. It gives you power to repeat group content and single content simultaneously. 
+Repeater is the another time saver in OnePager. It gives you power to repeat group content and single content simultaneously. 
 
 ![alt text](repeater-g.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -302,7 +302,7 @@ array(
 ```
 
 ##Divider
-In Onepager comes with innumerous setting. To make every setting separate from subsequent another, use divider field.
+In OnePager comes with innumerous setting. To make every setting separate from subsequent another, use divider field.
 
 ![alt text](divider.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -329,7 +329,7 @@ array(
 
 ####Color Picker
 
-Colorpicker in Onepager is a new way to take control over the color on onepager-enabled theme. 
+Colorpicker in OnePager is a new way to take control over the color on OnePager-enabled theme. 
 
 ![alt text](colorpicker.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
@@ -356,10 +356,10 @@ array(
 ```
 
 ##WordPress Specific
-OnePager basically makes you one page website in WordPress. When you are dealing with WordPress, you must need to deal with WordPress Pages, Menus and Category. So, In Onepager we’ve bottled them in fields, have a look on them.
+OnePager basically makes you one page website in WordPress. When you are dealing with WordPress, you must need to deal with WordPress Pages, Menus and Category. So, In OnePager we’ve bottled them in fields, have a look on them.
 
 ###Category
-Category field gives you access to comprehend WordPress categories in Onepager, so that you can show category specify post easily.
+Category field gives you access to comprehend WordPress categories in OnePager, so that you can show category specify post easily.
 ![alt text](category.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
 ####Arguments
@@ -385,7 +385,7 @@ array(
 ```
 
 ###Menu
-Menu field is essential tool in Onepager, It bring you all created Menus like primary menu, footer menu and so on. 
+Menu field is essential tool in OnePager, It bring you all created Menus like primary menu, footer menu and so on. 
 ![alt text](menu.png "Logo Title Text 1")<p style="text-align:center">Preview</p>
 
 ####Arguments
@@ -421,7 +421,7 @@ Sometime you need show page in sidebar or somewhere else in you website, In one 
 | type   | string     | page      | This Value identifies the field type|
 | name   | string     |           | A unique name required to define |
 | label  | string     |           | Displays as field label|
-| value  | string     |           | The value should define in WordPRess page name   |
+| value  | string     |           | The value should define in WordPress page name   |
 
 
 ####Example Code
